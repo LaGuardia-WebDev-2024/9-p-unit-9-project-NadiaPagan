@@ -25,6 +25,7 @@ draw = function(){
       sceneImage = caveSceneImage;
       sceneText = "Where do you want to go?  [Press f for forest and c for cave]";
     } 
+    
    }
   
 };

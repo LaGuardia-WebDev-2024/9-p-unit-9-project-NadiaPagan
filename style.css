@@ -11,7 +11,7 @@ h1{
   font-size: 30px;
   color: white;
 }
-
+h2{color: pink}
 #myCanvas {
   background-size: 600px 400px;
   border-radius: 30px;
